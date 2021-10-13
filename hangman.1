@@ -1,0 +1,36 @@
+.TH man 1 "26..04.2021" "1.0" "duży skrypt man page"
+.SH NAME
+hangman - a single-player hangman game
+
+.SH SYNOPSIS
+.B hangman.sh
+.br
+.B hangman.sh
+.RI [ OPTIONS ]\&
+.br
+.B hangman.sh 
+.B \-f 
+.I [FILE]\&
+
+.SH DESCRIPTION
+.B hangman.sh
+is a single-player game. Firstly you need to choose a category from given in the menu by typing a number from 1 to 4 and then enter. Then there will be chosen a random password from this category
+and your job is to guess that password by entering letters from polish alphabet. 
+.PP
+It's case-insensitive so it doesn't matter if they are upper or lower-case. Every time you make a mistake there will be drawn another part of the hangman. You have 8 tries, after 9 mistake you loose. You win when you type all the letters in the given password and the game begins once again.
+.
+.SH OPTIONS
+.TP
+.BI \-h
+Open this manual
+.TP
+.BI \-v
+Output a version number of
+.B hangman.sh
+.TP
+.BI \-f " FILE"
+play one game with a random password from
+.IR FILE
+
+.SH AUTHOR
+Written by Michał Cellmer - 184685

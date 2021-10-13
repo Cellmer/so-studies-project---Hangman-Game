@@ -1,0 +1,181 @@
+#funkcje rysujące wisielca
+draw9()
+{
+	echo "       _____________________         "
+	echo "       | /                 |         "
+	echo "       |/                  |         "
+	echo "       |                   |         "
+	echo "       |                   |         "
+	echo "       |                   O         "
+	echo "       |                  /|\        "
+	echo "       |                 / | \       "
+	echo "       |                ^  |  ^      "
+	echo "       |                  / \        "
+	echo "       |                _/   \_      "
+	echo "      / \                            "
+	echo "     /   \                           "
+	echo "                                     "
+}
+
+draw8()
+{
+	echo "       _____________________         "
+	echo "       | /                           "
+	echo "       |/                            "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                   O         "
+	echo "       |                  /|\        "
+	echo "       |                 / | \       "
+	echo "       |                ^  |  ^      "
+	echo "       |                  / \        "
+	echo "       |                _/   \_      "
+	echo "      / \                            "
+	echo "     /   \                           "
+	echo "                                     "
+}
+
+draw7()
+{
+	echo "       _____________________         "
+	echo "       | /                           "
+	echo "       |/                            "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                   O         "
+	echo "       |                  /|\        "
+	echo "       |                 / | \       "
+	echo "       |                ^  |  ^      "
+	echo "       |                             "
+	echo "       |                             "
+	echo "      / \                            "
+	echo "     /   \                           "
+	echo "                                     "
+}
+
+draw6()
+{
+	echo "       _____________________         "
+	echo "       | /                           "
+	echo "       |/                            "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                   O         "
+	echo "       |                   |         "
+	echo "       |                   |         "
+	echo "       |                   |         "
+	echo "       |                             "
+	echo "       |                             "
+	echo "      / \                            "
+	echo "     /   \                           "
+	echo "                                     "
+}
+
+draw5()
+{
+	echo "       _____________________         "
+	echo "       | /                           "
+	echo "       |/                            "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                   O         "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "      / \                            "
+	echo "     /   \                           "
+	echo "                                     "
+}
+
+draw4()
+{
+	echo "       _____________________         "
+	echo "       | /                           "
+	echo "       |/                            "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "      / \                            "
+	echo "     /   \                           "
+	echo "                                     "
+}
+
+draw3()
+{
+	echo "       _____________________         "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "      / \                            "
+	echo "     /   \                           "
+	echo "                                     "
+}
+
+draw2()
+{
+	echo "                                     "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "       |                             "
+	echo "      / \                            "
+	echo "     /   \                           "
+	echo "                                     "
+}
+
+draw1()
+{
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+	echo "      / \                            "
+	echo "     /   \                           "
+	echo "                                     "
+}
+
+draw0()
+{
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+	echo "                                     "
+}
+
